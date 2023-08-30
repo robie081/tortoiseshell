@@ -69,8 +69,8 @@ nav ul li a {
 h1 {
     background-color: white;
     margin-top: 13rem;
-    font-size: 1rem;
-    padding: 0.8rem 2.5rem;
+    font-size: 0.9rem;
+    padding: 0.7rem 1.5rem;
 }
 
 .services {
@@ -194,7 +194,7 @@ footer {
     h1 {
         margin: auto;
         font-size: 1.1rem;
-        padding: 0.5rem 2rem;
+        padding: 0.7rem 2rem;
         margin-right: 1rem;
     }
 
